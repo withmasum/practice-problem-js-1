@@ -13,3 +13,8 @@ for (var i = 1; i <= 10; i++) {
     }
 }
 
+
+
+var i = 0;
+for (i = 0; i < 5; i++) { };
+console.log(i);
